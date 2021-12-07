@@ -88,9 +88,8 @@ playsound==1.2.2
 prometheus-client==0.11.0
 prompt-toolkit==3.0.19
 protobuf==3.17.3
-PyAudio @ file:///C:/Users/k.avinash/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
-PyAutoGUI==0.9.53
 pycparser==2.20
+PyAutoGUI==0.9.53
 pydub==0.25.1
 PyGetWindow==0.0.9
 Pygments==2.9.0
